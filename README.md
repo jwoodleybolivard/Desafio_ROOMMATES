@@ -1,6 +1,6 @@
-# Desafio Evaluado - Roommates
+# Desafio Evaluado - Roommates 🎓🎓
 
-## Habilidades a evaluar
+## Habilidades a evaluar 🛠️🛠️
 
 -  Manipular archivos con File system
 -  Manejar errores
@@ -8,7 +8,7 @@
 -  Manejar códigos de estado HTTP
 -  Utilizar paquetes de npm
 
-## Descripción
+## Descripción 🖇️
 
 Es bien sabido que entre las mejores recomendaciones que un programador amateur puede recibir para mejorar sus habilidades es “crear aplicaciones”, sin darle tanta importancia a la temática a elaborar, sino que solo basta con un problema para desarrollar una solución digital.
 
@@ -36,7 +36,7 @@ Rutas que debes crear en tu servidor:
 -  **/gasto PUT**: Edita los datos de un gasto.
 -  **/gasto DELETE**: Elimina un gasto del historial.
 
-## Requerimientos
+## Requerimientos 📌
 
 1. Ocupar el módulo File System para la manipulación de archivos alojados en el servidor.
 
@@ -60,3 +60,17 @@ Rutas que debes crear en tu servidor:
 
 6. Enviar un correo electrónico a todos los roommates cuando se registre un nuevo gasto. Se recomienda agregar a la lista de correos su correo personal para verificar esta funcionalidad. **(Opcional)**
 
+## Autor ✒️
+
+* **Jean Woodley Bolivard** - *Trabajo Completo* - [enlace_al_perfil_de_GitHub](https://github.com/jwoodleybolivard)
+
+## Licencia 📄
+
+Sin licencia
+
+## Expresiones de Gratitud 🎁
+
+* Deja un Like 👍
+
+---
+⌨️ con ❤️ por [Jean Woodley Bolivard](https://github.com/jwoodleybolivard) 😊
